@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+*
+{
+	 font-family: "Parkinsans", serif;
+}
+.bold
+{
+	font-weight:700 !important;
+}
+table
+{
+
+	
+	width:100%;
+	height:100%;
+	
+	
+}
+tr{
+
+	text-align:center;
+	
+	
+}
